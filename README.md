@@ -4,7 +4,7 @@
 Let me introduce myself. My name is <b>Muhammad Revy Aulia</b>.<br>
 
 I am a college student in my sixth semester.<br>
-I am intershiping in Bangkit Academy, specializing in Machine Learning.<br>
+I am intershiping in Bangkit Academy, specializing in **Machine Learning**.<br>
 
 My task is making machine learning model.
 I still collect and complete the global certification.
