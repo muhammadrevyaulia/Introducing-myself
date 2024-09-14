@@ -10,5 +10,5 @@ My task is making machine learning model.
 I still collect and complete the global certification.
 
 If you want to reach out, please you can follow me in [LinkedIn]
-(https://github.com/muhammadrevyaulia).
+(https://www.linkedin.com/in/muhammad-revy-aulia-545a42133/).
 
